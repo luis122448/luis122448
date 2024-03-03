@@ -25,15 +25,14 @@
 <a href="https://github.com/luis122448/smart-shell-springboot" target="_blank">
 <img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white">
 </a>
-
 <a href="https://github.com/luis122448/smart-shell-postgres" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=postgresql&logoColor=blue&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-8A2BE2?logo=postgresql&logoColor=blue&color=blue">
 </a>
 <a href="https://github.com/luis122448/smart-shell-mongo" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=mongodb&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-8A2BE2?logo=mongodb&color=white">
 </a>
 <a href="https://github.com/luis122448/smart-shell-redis" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=redis&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Redis-8A2BE2?logo=redis&color=white">
 </a>
 </p>
 - Emisión, busqueda e impresión de comprobantes electrónicos.
