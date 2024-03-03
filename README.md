@@ -22,10 +22,19 @@
 <a href="https://github.com/luis122448/smart-shell-angular" target="_blank"><img src="./project/smart-shell/2.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/luis122448/smart-shell-angular" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/FronEnd-8A2BE2?logo=angular&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/FronEnd-8A2BE2?logo=angular&color=white">
 </a>
 <a href="https://github.com/luis122448/smart-shell-springboot" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2?logo=spring&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2?logo=spring&color=white">
+</a>
+<a href="https://github.com/luis122448/smart-shell-postgres" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=postgres&color=white">
+</a>
+<a href="https://github.com/luis122448/smart-shell-mongo" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=mongo&color=white">
+</a>
+<a href="https://github.com/luis122448/smart-shell-redis" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=redis&color=white">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -41,10 +50,10 @@
 <br>
 <p>
 <a href="https://github.com/luis122448/platform-training-angular" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/FronEnd-8A2BE2?logo=angular&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/FronEnd-8A2BE2?logo=angular&color=white">
 </a>
 <a href="https://github.com/luis122448/platform-training-springboot" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2?logo=spring&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2?logo=spring&color=white">
 </a>
 </p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
