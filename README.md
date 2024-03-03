@@ -5,13 +5,11 @@
 
 ## Sobre mi
 
-- FullStack developer
+- Ingeniero Industrial con 2 años de experiencia en el desarrollo de aplicaciones web y administración de base de datos.
 - Desarrollo de aplicaciones web con Angular y Java (Spring Boot)
 - Administrador de Base de Datos Oracle (19c) y programador PL/SQL
 - Desarrollo y administracion de ETL (Oracle, Mysql) con Python ( FASTAPI ) y Oracle Instant Client
 - Elaboracion de reportes con JasperReports
-
-<br>
 
 ## Proyectos
 <table>
