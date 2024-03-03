@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">luis122448</a></h1>
+<h1 align="center">Hola, soy <a href="https://luis122448.com/">luis122448</a></h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="./banner/banner.jpg">
 
 ## Sobre mi
 
@@ -20,11 +20,12 @@
 <a href="https://github.com/luis122448/smart-shell-angular" target="_blank"><img src="./project/smart-shell/2.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/luis122448/smart-shell-angular" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/FronEnd-8A2BE2?logo=angular&logoColor=red&color=white">
+<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
 </a>
 <a href="https://github.com/luis122448/smart-shell-springboot" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2?logo=spring&color=white">
+<img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white">
 </a>
+
 <a href="https://github.com/luis122448/smart-shell-postgres" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=postgresql&logoColor=blue&color=white">
 </a>
@@ -52,10 +53,10 @@
 <br>
 <p>
 <a href="https://github.com/luis122448/platform-training-angular" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/FronEnd-8A2BE2?logo=angular&logoColor=red&color=white">
+<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
 </a>
 <a href="https://github.com/luis122448/platform-training-springboot" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2?logo=spring&color=white">
+<img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white">
 </a>
 </p>
 - Modulos, cursos y clases personalizables por usuario.
