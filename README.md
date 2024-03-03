@@ -37,12 +37,13 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=redis&color=white">
 </a>
 </p>
+<p aling="start">
 Emisión, busqueda e impresión de comprobantes electrónicos
 Mantenimiento de artículos, clientes, vendedores y tipo de cambio
 Importación y exportación masiva de articulos y lista de precios
-Carga y control de subida de archivos
+Carga y control de subida de archivos adjuntos
 Authentication y autorización de usuarios con roles y permisos
-
+</p>
 </div>                                                                                 
 </td>
 <td width="50%">
