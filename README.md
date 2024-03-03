@@ -37,7 +37,15 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=redis&color=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<li>Emisión, busqueda e impresión de comprobantes electrónicos</li>
+<li>Mantenimiento de artículos, clientes, vendedores y tipo de cambio</li>
+<li>
+  Importación y exportación masiva de articulos y lista de precios
+</li>
+<li>Carga y control de subida de archivos</li>
+<li>
+  Authentication y autorización de usuarios con roles y permisos
+</li>
 </div>
                                                                                       
 </td>
@@ -53,13 +61,15 @@
 <p>
 <a href="https://github.com/luis122448/platform-training-angular" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/FronEnd-8A2BE2?logo=angular&logoColor=red&color=white">
-">
 </a>
 <a href="https://github.com/luis122448/platform-training-springboot" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2?logo=spring&color=white">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<li>Implementacion de modulos, cursos y clases personalizable por usuario</li>
+<li>Seguimiento y control de la asistencia y participacion</li>
+<li>Examenes, Quiz y control de evaluacion</li>
+<li>Sistema de certificacion y verificacion</li>
 </div>                                                             
 </table>                                                                                 
 </div>
