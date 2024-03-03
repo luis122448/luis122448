@@ -37,19 +37,14 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/DataBase-8A2BE2?logo=redis&color=white">
 </a>
 </p>
-<li>Emisión, busqueda e impresión de comprobantes electrónicos</li>
-<li>Mantenimiento de artículos, clientes, vendedores y tipo de cambio</li>
-<li>
-  Importación y exportación masiva de articulos y lista de precios
-</li>
-<li>Carga y control de subida de archivos</li>
-<li>
-  Authentication y autorización de usuarios con roles y permisos
-</li>
-</div>
-                                                                                      
-</td>
+Emisión, busqueda e impresión de comprobantes electrónicos
+Mantenimiento de artículos, clientes, vendedores y tipo de cambio
+Importación y exportación masiva de articulos y lista de precios
+Carga y control de subida de archivos
+Authentication y autorización de usuarios con roles y permisos
 
+</div>                                                                                 
+</td>
 <td width="50%">
                <br>
 <h3 align="center">Platform Traning</h3>
@@ -66,15 +61,14 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/BackEnd-8A2BE2?logo=spring&color=white">
 </a>
 </p>
-<li>Implementacion de modulos, cursos y clases personalizable por usuario</li>
-<li>Seguimiento y control de la asistencia y participacion</li>
-<li>Examenes, Quiz y control de evaluacion</li>
-<li>Sistema de certificacion y verificacion</li>
+Implementacion de modulos, cursos y clases personalizable por usuario
+Seguimiento y control de la asistencia y participacion
+Examenes, Quiz y control de evaluacion
+Sistema de certificacion y verificacion
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
-                                                      
+<br>                                                
 </div>
 <br>
 
