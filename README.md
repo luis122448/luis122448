@@ -30,10 +30,9 @@
 </a>
 <a href="https://github.com/luis122448/smart-shell-mongo" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-8A2BE2?logo=mongodb&logoColor=white&color=green">
-
 </a>
 <a href="https://github.com/luis122448/smart-shell-redis" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Redis-8A2BE2?logo=redis&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Redis-8A2BE2?logo=redis&logoColor=white&color=red">
 </a>
 </p>
 - Emisión, busqueda e impresión de comprobantes electrónicos.
