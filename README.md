@@ -29,7 +29,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-8A2BE2?logo=postgresql&logoColor=white&color=blue">
 </a>
 <a href="https://github.com/luis122448/smart-shell-mongo" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-8A2BE2?logo=mongodb&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-8A2BE2?logo=mongodb&logoColor=white&color=green">
+
 </a>
 <a href="https://github.com/luis122448/smart-shell-redis" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Redis-8A2BE2?logo=redis&color=white">
