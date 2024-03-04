@@ -17,7 +17,7 @@
 <td width="50%">
 <h3 align="center">Smart Shell</h3>
 <div align="center">
-<a href="https://github.com/luis122448/smart-shell-angular" target="_blank"><img src="./project/smart-shell/2.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://smart-shell.luis122448.com/" target="_blank"><img src="./project/smart-shell/2.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/luis122448/smart-shell-angular" target="_blank">
 <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
@@ -46,7 +46,7 @@
                <br>
 <h3 align="center">Platform Traning</h3>
 <div align="center">                                       
-<a href="https://github.com/luis122448/platform-training-angular" target="_blank">
+<a href="https://platform-training.luis122448.com" target="_blank">
 <img src="/project/pro-learn-tracker/7.jpg" width="400" alt="Curso arquitectura MVVM">
 </a>
 <br>
